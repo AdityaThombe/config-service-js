@@ -1,0 +1,9 @@
+{
+  "name": "config-service-js",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Config helpers with Jest tests. Demo target for ProofPatch: intentionally contains several security bugs.",
+  "license": "MIT",
+  "scripts": { "test": "jest" },
+  "devDependencies": { "jest": "29.7.0" }
+}
